@@ -89,3 +89,6 @@ title: CTFL
 6. [[6.0.  Test Tools]]
 	1. [[6.1.  Tool Support for testing]]
 	2. [[6.2.  Benefits and Risks of Test Automation]]
+
+---
+[[1.0.  Fundamentals of Testing | Next Section]] >>
